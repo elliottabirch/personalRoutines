@@ -1,0 +1,8 @@
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/bin/Debug/netstandard2.0/myRoutine.deps.json
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/bin/Debug/netstandard2.0/myRoutine.dll
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/bin/Debug/netstandard2.0/myRoutine.pdb
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/obj/Debug/netstandard2.0/myRoutine.csproj.CoreCompileInputs.cache
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/obj/Debug/netstandard2.0/myRoutine.AssemblyInfoInputs.cache
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/obj/Debug/netstandard2.0/myRoutine.AssemblyInfo.cs
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/obj/Debug/netstandard2.0/myRoutine.dll
+/Users/elliottbirch/Downloads/Honorbuddy 3.0.892/Routines/myRoutine/obj/Debug/netstandard2.0/myRoutine.pdb
